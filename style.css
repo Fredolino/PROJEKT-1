@@ -1,0 +1,16 @@
+fieldset{
+  border: thin solid #999;
+  margin: 25px 0;
+}
+
+label{
+  display: block;
+  margin-top: 10px;
+}
+
+.fred{
+  background-color: green;
+}
+.otherclass{
+  background-color: red;
+}
